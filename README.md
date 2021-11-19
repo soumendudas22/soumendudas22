@@ -28,8 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Soumendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumendudas22)](https://github.com/soumendudas22/github-readme-stats)
-
 
 ## ⚡ Staying updated with the latest trends and advancements.
-<a href="https://app.daily.dev/soumendudas22"><img src="https://api.daily.dev/devcards/5ad0e2daec324d0c95db612dd847afef.png?r=ggj" width="400" alt="Soumendu Das's Dev Card"/></a>
+<a href="https://app.daily.dev/soumendudas22"><img src="https://api.daily.dev/devcards/5ad0e2daec324d0c95db612dd847afef.png?r=ggj" width="200" alt="Soumendu Das's Dev Card"/></a>
+[![Soumendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumendudas22)](https://github.com/soumendudas22/github-readme-stats)
